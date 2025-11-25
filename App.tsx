@@ -343,7 +343,7 @@ const App: React.FC = () => {
               S
             </div>
             <h1 className="text-xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent hidden sm:block">
-              Sao Kê Thông Minh
+              Ksor Hăn - Trích xuất Sao Kê Thông Minh
             </h1>
             <h1 className="text-xl font-bold text-blue-600 sm:hidden">SKTM</h1>
           </div>
