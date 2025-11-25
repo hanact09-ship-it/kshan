@@ -1,0 +1,5 @@
+{
+  "name": "Sao Kê Thông Minh (Smart Bank Statement)",
+  "description": "Phân tích và gộp giao dịch từ sao kê ngân hàng PDF bằng AI. Hỗ trợ tự động trích xuất dữ liệu, phân loại người gửi/nhận và trực quan hóa dòng tiền.",
+  "requestFramePermissions": []
+}
